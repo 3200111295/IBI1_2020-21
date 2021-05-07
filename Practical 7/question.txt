@@ -1,0 +1,8 @@
+Question: 
+How have new cases and total cases developed over time in Spain?
+
+The code start at line 77
+
+From the results, We found that in the case of Spain, the number of new cases remained low until 9 March 2020, after which the number of new cases increased rapidly and fluctuated at higher levels. As for the total number of cases in Spain, it also remained low until March 9, 2020, and has increased rapidly since then.
+I think this was because western countries did not pay attention to the early stage of the epidemic. Respect for human rights also prevented them from doing a good job of preventing isolation.
+Defeat of COVID-19 requires the attention of the country and the joint efforts of all the people. We cannot let our guard down just because the number of cases is small.
