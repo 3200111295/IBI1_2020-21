@@ -17,7 +17,7 @@ for i in f1:
 a = ''
 for key in dictionary.keys():
     if re.search('unknown function',key):
-        output = re.findall(r'^>([^ ]+)_mRNA',key)
+        output = re.findall(r'^>([^ ]+)_',key)
         output = output[0]
         a = a + ('>' + output + '     ' + str(len(dictionary[key])) + '\n' + dictionary[key] + '\n')
 
