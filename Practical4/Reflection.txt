@@ -1,0 +1,5 @@
+For me, a girl who is not good at computer, the practical was challenging. At first,I even don't know the meaning of "nano" and I always forgot to press"control" and "X" to confirm the changes. With the help of teachers and classmates around me, I have made a lot of progress in this area. However, I still have something to improve.
+Firstly, I should remember to write the pseudocode to explain the code so I can easily understand. I always forget to write it.
+Secondly, I should be more familiar with the commands.
+Lastly, I should exercise my ability to solve some difficulties or bugs. It's not good to ask for help immediately when facing questions and bugs.
+Hope I can learn more in ibi and improve my ability in all the Practicals.
