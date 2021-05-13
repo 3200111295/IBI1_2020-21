@@ -16,13 +16,11 @@ I like sunshine
 I don't like swimming
 I like singing
 I like flowers
-I like seaI like birds
+I like sea
+I like birds
 I like study
 I like rain
 I like candy
 I like cats
 I like clouds
-I like bananas 
-I like talking
-I like snow
 >>>>>>> Alex
