@@ -31,8 +31,7 @@ def id_found(terms):
 def related(terms,biomolecule):
     gene = []
     for term in terms:
-        defstrs = term.getElementsByTagName("defstr")[0]
-        defstr = defstrs.childNodes[0].data
+        defstr = term.getElementsByTagName("defstr")[0].childNodes[0].data
         #find the id which is related to specific molecule
         id_link = term.getElementsByTagName("id")[0].childNodes[0].data
         if not biomolecule.isupper():
